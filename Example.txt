@@ -1,1 +1,2 @@
 I am on my way to understanding Git!
+It is fine to study Git!
